@@ -102,4 +102,4 @@ Manual test cases: [docs/TEST_CASES.md](docs/TEST_CASES.md) (in Russian).
 ```
 
 ## Author
-_Full name, group_
+Samofalov D.A
