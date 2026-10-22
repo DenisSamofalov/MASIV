@@ -1,0 +1,12 @@
+[project]
+name = "masiv"
+version = "1.0.0"
+description = "Сумма элементов целочисленного массива, кратных K, с резервным копированием входных данных"
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+authors = [{ name = "Самофалов Д.А" }]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
